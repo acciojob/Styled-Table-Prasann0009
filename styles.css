@@ -1,1 +1,22 @@
 /* your code */
+table
+{
+    border-radius: 12px;
+     overflow: hidden;
+     width: 70%;
+     height: 150px;
+     box-shadow: 10px 10px 10px grey;
+}
+table,th,td{
+   text-align: center;
+   border: 1px solid black;
+   border-collapse: collapse;
+}
+thead{
+    background-color: darkblue;
+    color: white;
+}
+#grey
+{
+    background-color: lightgray;
+}
